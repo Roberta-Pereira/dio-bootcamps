@@ -16,10 +16,13 @@
 
 <p>   
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="40" height="40">
   
   <!-- VSCode -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">
+  
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" height="40">
 </p>
  
-<h3> Cógidos </h3>
+<h3> Códigos </h3>
